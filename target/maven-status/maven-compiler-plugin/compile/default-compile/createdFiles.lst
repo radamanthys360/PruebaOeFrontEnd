@@ -1,0 +1,7 @@
+com\ejb\ProductosFacade.class
+com\ws\ApplicationConfig.class
+com\entidades\Productos_.class
+com\entidades\Productos.class
+com\ejb\ProductosFacadeLocal.class
+com\ejb\AbstractFacade.class
+com\ws\ProductosServices.class
